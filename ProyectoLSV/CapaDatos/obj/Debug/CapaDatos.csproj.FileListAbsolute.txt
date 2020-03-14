@@ -1,0 +1,5 @@
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\CapaDatos\obj\Debug\CapaDatos.pdb
