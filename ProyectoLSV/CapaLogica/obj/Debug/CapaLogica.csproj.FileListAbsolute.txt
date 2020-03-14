@@ -1,0 +1,7 @@
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\CapaLogica\obj\Debug\CapaLogica.pdb

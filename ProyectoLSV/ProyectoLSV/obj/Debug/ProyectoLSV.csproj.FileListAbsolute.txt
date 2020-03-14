@@ -1,0 +1,14 @@
+c:\users\glamis\documents\visual studio 2013\Projects\ProyectoLSV\ProyectoLSV\bin\Debug\ProyectoLSV.exe.config
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\ProyectoLSV\obj\Debug\ProyectoLSV.csprojResolveAssemblyReference.cache
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\ProyectoLSV\obj\Debug\ProyectoLSV.Properties.Resources.resources
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\ProyectoLSV\obj\Debug\ProyectoLSV.csproj.GenerateResource.Cache
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\ProyectoLSV\bin\Debug\ProyectoLSV.exe
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\ProyectoLSV\bin\Debug\ProyectoLSV.pdb
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\ProyectoLSV\bin\Debug\CapaPresentacion.dll
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\ProyectoLSV\bin\Debug\CapaLogica.dll
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\ProyectoLSV\bin\Debug\CapaDatos.dll
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\ProyectoLSV\bin\Debug\CapaPresentacion.pdb
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\ProyectoLSV\bin\Debug\CapaLogica.pdb
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\ProyectoLSV\bin\Debug\CapaDatos.pdb
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\ProyectoLSV\obj\Debug\ProyectoLSV.exe
+C:\Users\Glamis\Documents\Visual Studio 2013\Projects\ProyectoLSV\ProyectoLSV\obj\Debug\ProyectoLSV.pdb
